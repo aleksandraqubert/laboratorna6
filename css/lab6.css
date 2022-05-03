@@ -1,0 +1,27 @@
+.one{
+    padding:0.6em 2em;
+    color:black;
+    background:linear-gradient(white,#D8BFD8);
+    text-align:center;
+}
+.two{
+    text-align:center;
+    
+   
+}
+.right{
+    background:#D8BFD8;
+    text-align:center;
+}
+
+.four{
+    background: #D8BFD8;
+    text-align:center;
+}
+.five{
+    background: #D8BFD8;
+    text-align:center;
+}
+.six{
+    background: linear-gradient(#D8BFD8,#d4b7d4);
+}
