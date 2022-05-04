@@ -1,7 +1,7 @@
 .one{
     padding:0.6em 2em;
     color:black;
-    background:linear-gradient(white,#D8BFD8);
+    background:whitesmoke;
     text-align:center;
 }
 .two{
@@ -10,12 +10,12 @@
    
 }
 .right{
-    background:#D8BFD8;
+    background: linear-gradient(white,#D8BFD8);
     text-align:center;
 }
 
 .four{
-    background: #D8BFD8;
+    background: white;
     text-align:center;
 }
 .five{
@@ -25,3 +25,4 @@
 .six{
     background: linear-gradient(#D8BFD8,#d4b7d4);
 }
+
